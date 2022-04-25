@@ -1,6 +1,10 @@
 ### 안녕하세요? 👋
 
-I do it as soon as possible and as much as possible it will fail.
+😄😄😄　　😄😄😄😄    😄😄😄    😄    😄
+😄　　　😄 😄         😄       😄  😄  😄 
+😄　😄😄　😄😄😄😄 😄         😄 😄😄
+😄　　　😄 😄         😄       😄  😄  😄
+😄　😄😄  😄😄😄😄    😄😄😄    😄    😄
  
 <!--
 **joo98e/joo98e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
