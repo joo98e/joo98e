@@ -27,7 +27,7 @@
  - 직ㅤㅤㅤ급 : 주임
  - 주ㅤ업ㅤ무 : JavaScript Contents Develop, LMS Porting
  - 부ㅤ업ㅤ무 : Spring(eGov) 프로젝트 운용
- - 근ㅤ무ㅤ일 : 2020.04 ~ ing
+ - 근ㅤ무ㅤ일 : 2020.04 ~ 2022.08
 
  > [컨텐츠 보기](https://proxy.learningfit.co.kr/K_Credit/2022/01/01/01.html) <br />
  > [LMS 보기](https://yipa.learningfit.co.kr)
