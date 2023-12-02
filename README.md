@@ -1,5 +1,5 @@
-## 😅 Goooooooood
 
+## 😅 안녕하세요? SW 엔지니어 정태복입니다.
 ---
 
 <p><img src="https://img.shields.io/badge/WEB-FRONT-red" /></p>
@@ -26,4 +26,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
--->
