@@ -1,8 +1,6 @@
 
 ## 😊 안녕하세요? SW 엔지니어 정태복입니다.
 
----
-
 ![WebFront](https://img.shields.io/badge/Web-Front-blue)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
@@ -17,8 +15,6 @@
 
 - jtbeok@gmail.com
 - 010-5614-1328
-
----
 
 ## 🌱 I’m currently learning ...
 
