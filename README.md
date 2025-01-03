@@ -1,22 +1,31 @@
 
-## 😅 안녕하세요? SW 엔지니어 정태복입니다.
+## 😊 안녕하세요? SW 엔지니어 정태복입니다.
+
 ---
 
-<p><img src="https://img.shields.io/badge/WEB-FRONT-red" /></p>
-<p><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /></p>
+![WebFront](https://img.shields.io/badge/Web-Front-blue)
 
-[//]: # ( <p><img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" /></p>)
- <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF" /></p>
- <p><img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=Next.js&logoColor=000000" /></p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 
-<p><img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white" /></p>
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
 
-### 🤙 연락하세요!
+![NextJS](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=Next.js&logoColor=000000)
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+## 🤙 Contact
 
 - jtbeok@gmail.com
 - 010-5614-1328
 
-![joo98e](https://github-readme-stats.vercel.app/api?username=joo98e&show_icons=true)
+---
+
+## 🌱 I’m currently learning ...
+
+- 다양한 DB 공부하기
+- LLM 활용, 나에 대한 GPT 만들기
+
+[//]: # (![joo98e]&#40;https://github-readme-stats.vercel.app/api?username=joo98e&show_icons=true&#41;)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
