@@ -16,10 +16,10 @@
 - jtbeok@gmail.com
 - 010-5614-1328
 
-## 🌱 I’m currently learning ...
+<!-- ## 🌱 I’m currently learning ...
 
 - 다양한 DB 공부하기
-- LLM 활용, 나에 대한 GPT 만들기
+- LLM 활용, 나에 대한 GPT 만들기 -->
 
 [//]: # (![joo98e]&#40;https://github-readme-stats.vercel.app/api?username=joo98e&show_icons=true&#41;)
 
