@@ -15,37 +15,20 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=social&logo=Spring&logoColor=6DB33F)
 
 
-<div align="center" style="margin-top:4rem; ">
+<div align="center" style="margin:2rem 0; ">
     <img src="./src/assets/joo98e.svg" alt="joo98e" />
     <p align="center">
         <a href="https://plastic-carob-cd5.notion.site/ba6ac28bd51047908058f7f59b175143">View Notion</a>
         &middot;
-        <a href="sms://010-5614-1328">Message</a>
+        <a href="mailto:jtbeok@gmail.com">jtbeok@gmail.com</a>
         &middot;
-        <a href="mailto:jtbeok@gmail.com">Email</a>
-        &middot;
-        <a href="tel:010-5614-1328">Phone</a>
+        <a href="sms://010-5614-1328">010-5614-1328</a>
     </p>
 </div>
 
+---
 
-<!-- ## 🌱 I’m currently learning ...
-
-- 다양한 DB 공부하기
-- LLM 활용, 나에 대한 GPT 만들기 -->
-
-
-<p align="center" style="margin-top: 4rem;">
+<p align="center" style="margin-top: 2rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=joo98e&hide=prs&count_private=true&show_icons=true&theme=midnight-purple" alt="github-stats">
 </p>
 
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->

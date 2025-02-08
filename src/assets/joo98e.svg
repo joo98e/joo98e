@@ -1,15 +1,15 @@
-<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="125" xmlns="http://www.w3.org/2000/svg">
     <!-- Define text with stroke and fill, center aligned -->
-    <text x="50%" y="50%" font-family="'Dancing Script', cursive" font-size="96" fill="none" stroke="black" stroke-width="2" text-anchor="middle" alignment-baseline="middle">
+    <text x="50%" y="50%" font-family="'Dancing Script', cursive" font-size="96" fill="none" stroke="white" stroke-width="2" text-anchor="middle" alignment-baseline="middle">
         🤙 Joo98e's Contact
     </text>
 
     <!-- Animation -->
     <style>
         text {
-        stroke-dasharray: 200;
-        stroke-dashoffset: 200;
-        animation: draw 3s ease forwards;
+        stroke-dasharray: 400;
+        stroke-dashoffset: 150;
+        animation: draw 1.5s ease forwards;
         }
 
         @keyframes draw {
