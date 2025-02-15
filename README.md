@@ -18,7 +18,7 @@
 <div align="center" style="margin:2rem 0; ">
     <img src="./src/assets/joo98e.svg" alt="joo98e" />
     <p align="center">
-        <a href="https://plastic-carob-cd5.notion.site/ba6ac28bd51047908058f7f59b175143">View Notion</a>
+        <a href="https://plastic-carob-cd5.notion.site/ba6ac28bd51047908058f7f59b175143" target="_blank">Notion</a>
         &middot;
         <a href="mailto:jtbeok@gmail.com">jtbeok@gmail.com</a>
         &middot;
