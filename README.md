@@ -6,7 +6,6 @@
 ---
 
 ![FE](https://img.shields.io/badge/Web-Frontend-blue)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoo98e%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![React](https://img.shields.io/badge/React-61DAFB?style=social&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=social&logo=Next.js&logoColor=000000)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=social&logo=TypeScript&logoColor=3178C6)
