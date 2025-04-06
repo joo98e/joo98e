@@ -32,6 +32,6 @@
 ---
 
 <p align="center" style="margin-top: 2rem;">
-    <img src="https://github-readme-stats.vercel.app/api?username=joo98e&hide=prs&count_private=true&show_icons=true&theme=midnight-purple" alt="github-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joo98e&hide=prs&count_private=true&show_icons=true&theme=midnight-purple" alt="github-stats">
 </p>
 
